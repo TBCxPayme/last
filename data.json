@@ -4,39 +4,39 @@
       "name": "Раунд 1",
       "matches": [
         {
-          "teamA": "YASMINA",
+          "teamA": "",
           "scoreA": 1,
-          "teamB": "SARDOR",
+          "teamB": "",
           "scoreB": 2
         },
         {
-          "teamA": "MUSLIMA",
+          "teamA": "",
           "scoreA": 1,
-          "teamB": "ASADBEK",
+          "teamB": "",
           "scoreB": 2
         },
         {
-          "teamA": "JAVOHIR",
+          "teamA": "",
           "scoreA": 2,
-          "teamB": "KHULAK",
+          "teamB": "",
           "scoreB": 1
         },
         {
-          "teamA": "GULSANEM",
+          "teamA": "",
           "scoreA": 1,
-          "teamB": "DILMUROD",
+          "teamB": "",
           "scoreB": 2
         },
         {
-          "teamA": "ABDURAKHMON",
+          "teamA": "",
           "scoreA": 2,
-          "teamB": "JAMA",
+          "teamB": "",
           "scoreB": 1
         },
         {
-          "teamA": "Team 11",
+          "teamA": "",
           "scoreA": 0,
-          "teamB": "Team 12",
+          "teamB": "",
           "scoreB": 0
         }
       ]
@@ -45,21 +45,21 @@
       "name": "Раунд 2",
       "matches": [
         {
-          "teamA": "Победитель 1",
+          "teamA": "",
           "scoreA": 0,
-          "teamB": "Победитель 2",
+          "teamB": "",
           "scoreB": 0
         },
         {
-          "teamA": "Победитель 3",
+          "teamA": "",
           "scoreA": 0,
-          "teamB": "Победитель 4",
+          "teamB": "",
           "scoreB": 0
         },
         {
-          "teamA": "Победитель 5",
+          "teamA": "",
           "scoreA": 0,
-          "teamB": "Победитель 6",
+          "teamB": "",
           "scoreB": 0
         }
       ]
@@ -68,9 +68,9 @@
       "name": "Финал",
       "matches": [
         {
-          "teamA": "MAGA",
+          "teamA": "",
           "scoreA": 2,
-          "teamB": "SARDOR",
+          "teamB": "",
           "scoreB": 1
         }
       ]
