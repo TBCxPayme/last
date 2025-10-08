@@ -4,34 +4,34 @@
       "name": "Раунд 1",
       "matches": [
         {
-          "teamA": "SARDOR",
+          "teamA": "YASMINA",
+          "scoreA": 1,
+          "teamB": "SARDOR",
+          "scoreB": 2
+        },
+        {
+          "teamA": "MUSLIMA",
+          "scoreA": 1,
+          "teamB": "ASADBEK",
+          "scoreB": 2
+        },
+        {
+          "teamA": "JAVOHIR",
           "scoreA": 2,
-          "teamB": "DAVRON",
+          "teamB": "KHULAK",
           "scoreB": 1
         },
         {
-          "teamA": "MAGA",
+          "teamA": "GULSANEM",
+          "scoreA": 1,
+          "teamB": "DILMUROD",
+          "scoreB": 2
+        },
+        {
+          "teamA": "ABDURAKHMON",
           "scoreA": 2,
-          "teamB": "DAS",
+          "teamB": "JAMA",
           "scoreB": 1
-        },
-        {
-          "teamA": "ASDMLK",
-          "scoreA": 2,
-          "teamB": "ASDLK",
-          "scoreB": 3
-        },
-        {
-          "teamA": "Team 7",
-          "scoreA": 0,
-          "teamB": "Team 8",
-          "scoreB": 0
-        },
-        {
-          "teamA": "Team 9",
-          "scoreA": 0,
-          "teamB": "Team 10",
-          "scoreB": 0
         },
         {
           "teamA": "Team 11",
@@ -68,9 +68,9 @@
       "name": "Финал",
       "matches": [
         {
-          "teamA": "maga",
+          "teamA": "MAGA",
           "scoreA": 2,
-          "teamB": "sardor",
+          "teamB": "SARDOR",
           "scoreB": 1
         }
       ]
